@@ -20,7 +20,7 @@ seaborn 0.13.2
 주요 변수 자동 생성 (Golden Features)
 시각적 리포트 제공: Leaderboard, Feature Importance, Correlation Heatmap
 
-4)Results Summary
+4) Results Summary
 모델	                        Accuracy	Weighted F1	Logloss
 Logistic Regression (과제 1)	0.92	    0.92	      0.3006
 AutoML 앙상블	                0.896	    0.8952	    0.2683
